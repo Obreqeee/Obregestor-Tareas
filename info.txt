@@ -1,0 +1,3 @@
+async = La funcion retorna una promesa ademas depermitir el uso
+de palabra clave wait
+    Wait: se utiliza dentro de la funcion async para esperar a que una promesa se resuelva 
